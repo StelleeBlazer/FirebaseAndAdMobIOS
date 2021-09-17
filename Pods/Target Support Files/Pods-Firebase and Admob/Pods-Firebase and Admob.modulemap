@@ -1,0 +1,6 @@
+framework module Pods_Firebase_and_Admob {
+  umbrella header "Pods-Firebase and Admob-umbrella.h"
+
+  export *
+  module * { export * }
+}
